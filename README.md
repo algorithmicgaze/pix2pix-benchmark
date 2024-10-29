@@ -15,7 +15,7 @@ The `train_vanilla.ipynb` notebook runs in Jupyter Notebook. Here's some setup t
 In the terminal, clone the repository:
 
 ```bash
-git clone https://github.com/algorithmicgaze/pix2pix-benchmarks.git
+git clone https://github.com/algorithmicgaze/pix2pix-benchmark.git
 cd pix2pix-benchmarks
 ```
 
@@ -40,15 +40,14 @@ Open the `train_vanilla.ipynb` notebook and follow the instructions.
 3. Open a terminal
 4. Clone the repository:
 
-```bash
-git clone https://github.com/algorithmicgaze/pix2pix-benchmarks.git
-cd pix2pix-benchmarks
-```
+    ```bash
+    git clone https://github.com/algorithmicgaze/pix2pix-benchmarks.git
+    cd pix2pix-benchmarks
+    ```
 
 5. Install dependencies:
 
-```bash
-apt update && apt install -y unzip
-pip install tqdm matplotlib
-```
-
+    ```bash
+    apt update && apt install -y unzip
+    pip install tqdm matplotlib
+    ```
